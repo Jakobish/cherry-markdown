@@ -178,7 +178,7 @@ export default {
   wholeWordSearch: 'Целое слово',
   matchesFoundText: 'совпадений найдено.',
   toggleReplace: 'Показать замену',
-  close: 'Закрыть',
+  close: 'סגור',
   border: 'Рамка',
   shadow: 'Тень',
   radius: 'Скругление',
